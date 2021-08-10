@@ -1,7 +1,7 @@
 # Analysis of all-time top bowlers in test matches
 
 **Background**
-<br>The 79 greatest bowlers of all time has been listed in the dataset in separate rows according to total wickets they took in the span of their career as a cricketer. Along with wickets, their are 13 other attributes that are mentioned on each player. 
+<br>The greatest bowlers of all time has been listed in the dataset in separate rows according to total wickets they took in the span of their career as a cricketer. Along with wickets, their are other attributes that measures the performance of each player over their career. 
 
 **Attributes:**
  - Player - name of the players
