@@ -1,7 +1,7 @@
-# Data Analysis of all-time top bowlers in test matches
+# Analysis of all-time top bowlers in test matches
 
 **Background**
-The 79 greatest bowlers of all time has been listed in the dataset in separate rows according to total wickets they took in the span of their career as a cricketer. Along with wickets, their are 13 other attributes that are mentioned on each player. 
+<br>The 79 greatest bowlers of all time has been listed in the dataset in separate rows according to total wickets they took in the span of their career as a cricketer. Along with wickets, their are 13 other attributes that are mentioned on each player. 
 
 **Attributes:**
  - Player - name of the players
@@ -20,7 +20,7 @@ The 79 greatest bowlers of all time has been listed in the dataset in separate r
  - 10 - number of times the player took 10 wickets in a match
 
 **Analysis description**
-The process of data analysis:
+<br>The process of data analysis:
 1. Importing necessary python packages
 2. Reading the excel (.xlsx) file
 3. Naming the new dataFrame
