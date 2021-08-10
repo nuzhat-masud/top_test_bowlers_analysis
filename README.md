@@ -3,6 +3,8 @@
 **Background**
 <br>The greatest bowlers of all time has been listed in the dataset in separate rows according to total wickets they took in the span of their career as a cricketer. Along with wickets, their are other attributes that measures the performance of each player over their career. 
 
+There are 79 players listed in dataset and 14 factors used to extrapolate their overall performance.
+
 **Attributes:**
  - Player - name of the players
  - Span - starting and ending year of the players' career
