@@ -6,18 +6,18 @@
 **Attributes:**
  - Player - name of the players
  - Span - starting and ending year of the players' career
- - Mat - matches played by the player
- - Inns - innings played by the player
- - Balls - balls bowled by the player
- - Runs - Runs made by the player
- - Wkts - Wickets taken by the player
+ - Mat - matches played 
+ - Inns - innings played 
+ - Balls - balls bowled 
+ - Runs - Runs conceded
+ - Wkts - Wickets taken 
  - BBI - Best Bowling in Innings
  - BBM - Best Bowling in Match
- - Ave - Average of the player's wickets
- - Econ - Average number of runs conceded per over by the player 
- - SR - Strike rate of the player
- - 5 - number of times the player took 5 wickets in a match
- - 10 - number of times the player took 10 wickets in a match
+ - Ave - Bowling Average
+ - Econ - Economy Rate = Average number of runs conceded per over  
+ - SR - Bowling Strike rate 
+ - 5 - number of times the player took 5 wickets in an inning
+ - 10 - number of times the player took 10 wickets in an inning
 
 **Analysis description**
 <br>The process of data analysis:
