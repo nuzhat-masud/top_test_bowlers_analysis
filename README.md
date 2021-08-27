@@ -20,7 +20,7 @@
  - 10 - number of times the player took 10 wickets in an inning
 
 **Analysis description**
-<br>The process of data analysis:
+<br>The steps of data analysis, processing and cleaning:
 1. Importing necessary python packages
 2. Reading the excel (.xlsx) file
 3. Naming the new dataFrame
